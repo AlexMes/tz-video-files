@@ -20,6 +20,11 @@ alex - доступно 2 файла, jon - 1, michael - 0.
 ### user_files
 Опредиляет какие файлы доступны пользрвателю.
 
+### Установка
+composer install
+
+npm install
+
 
 
 
